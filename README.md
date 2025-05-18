@@ -1,4 +1,4 @@
-# README: Introduction à OpenStack
+# Introduction à OpenStack
 
 ## Qu'est-ce qu'OpenStack ?
 
