@@ -1,1 +1,0 @@
-# Introduction à OpenStack
